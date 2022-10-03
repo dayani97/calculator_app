@@ -1,0 +1,20 @@
+.operator,
+.number {
+    background-color: #db9512;
+    border-radius: 3px;
+}
+
+#calculator {
+    border-radius: 10px;
+    border-color: black;
+    border-width: 4px;
+    
+}
+
+#result-display {
+    border-radius: 5px 5px 0 0;
+    border-color: black ;
+}
+.bgcolor{
+    background-color: rgb(57, 182, 255);
+}
